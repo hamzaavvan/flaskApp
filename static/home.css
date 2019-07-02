@@ -1,6 +1,7 @@
-#HomeHeader {  
-background-color: yellow;  
-border: 3px dashed green;  
-margin: 25px;  
-padding: 25px;
+.welcome {
+	    margin: 0 auto;
+}
+
+.welcome h1 {
+	font-size: 3.5em;
 }
